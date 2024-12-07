@@ -1,2 +1,2 @@
-# AASTU-Market-place FrontEnd design
-This is tha main HTML and CSS design for the Website me and my team are working on called AASTU market place which is based on the idea of ecommerce
+# AASTU-Market-place
+This repository is dedicated to the AASTU Market Place website.
